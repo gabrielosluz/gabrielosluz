@@ -24,7 +24,7 @@ I am an electronic engineer turned data engineer who loves leveraging data-drive
 ### Socials
 
 
-<p align="left"> <a href="https://www.dev.to/gabrielosluz" target="_blank" rel="noreferrer"><img src=./images/devto.png width="32" height="32" /></a> <a href="https://www.github.com/gabrielosluz" target="_blank" rel="noreferrer"><img src=./images/Github-Mark.png width="32" height="32" /></a> <a href="http://www.medium.com/gabriel-luz" target="_blank" rel="noreferrer"><img src=./images/medium.png width="32" height="32" /></a> <a href="https://www.twitter.com/Gabriel_Luz96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gabriel-luz/" target="_blank" rel="noreferrer"><img src=./images/transparent-Linkedin-logo-icon.png width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.dev.to/gabrielosluz" target="_blank" rel="noreferrer"><img src=./images/devto.png width="32" height="32" /></a> <a href="https://www.github.com/gabrielosluz" target="_blank" rel="noreferrer"><img src=./images/GitHubLogo.png width="32" height="32" /></a> <a href="http://www.medium.com/gabriel-luz" target="_blank" rel="noreferrer"><img src=./images/medium.png width="32" height="32" /></a> <a href="https://www.twitter.com/Gabriel_Luz96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gabriel-luz/" target="_blank" rel="noreferrer"><img src=./images/transparent-Linkedin-logo-icon.png width="32" height="32" /></a></p>
 
 <br />
 
