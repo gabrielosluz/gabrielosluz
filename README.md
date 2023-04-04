@@ -4,7 +4,25 @@ Hi 👋 My name is Gabriel Luz
 Data Engineer
 -------------
 
-I am an electronic engineer turned data engineer who loves leveraging data-driven solutions that make an impact on business and society! I currently have the following Cloud certifications: GCP Data Engineer and Cloud Architect; AWS Solutions Architect Associate and Cloud Practitioner.
+🎯 Data Engineer with 4 years of experience working in data analysis and engineering. My biggest focus in the projects I participate in is creating data pipelines that add value to the companies' business.
+
+💻 Daily activities includes pipelines monitoring, follow up/deploy of fixes related to any pipeline/data issue.
+
+⚙️ Tools and skills: Python, Scala, SQL, Hadoop, Spark, Airflow, Docker, Power BI, Looker Studio, Terraform, CI/CD , Git, Linux, PostgreSQL, MySQL, BigQuery, Hive, Data Modeling, Data Quality, AWS, GCP.
+
+☁️ 8x GCP Certified:
+- Professional Data Engineer.
+- Professional Cloud Architect.
+- Professional Cloud Developer.
+- Professional DevOps Engineer.
+- Professional Database Engineer.
+- Professional Machine Learning Engineer.
+- Associate Cloud Engineer.
+- Digital Leader.
+
+☁️ 2x AWS Certified:
+- Cloud Practitioner.
+- Solutions Architect - Associate.
 
 * 🌍  I'm based in Rio de Janeiro, Brazil.
 * 🖥️  See my portfolio at [dev.to](http://https://dev.to/gabrielosluz) and [medium](https://medium.com/gabriel-luz).
