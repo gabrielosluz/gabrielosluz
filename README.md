@@ -24,6 +24,10 @@ Data Engineer
 - Cloud Practitioner.
 - Solutions Architect - Associate.
 
+☁️ 1x Azure Certified
+- Azure Data Fundamentals
+
+
 * 🌍  I'm based in Rio de Janeiro, Brazil.
 * 🖥️  See my portfolio at [dev.to](http://https://dev.to/gabrielosluz) and [medium](https://medium.com/gabriel-luz).
 * ✉️  You can contact me at [gabrielosluz@gmail.com](mailto:gabrielosluz@gmail.com).
